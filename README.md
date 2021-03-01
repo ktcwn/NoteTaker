@@ -2,9 +2,9 @@
 
 ## Description
 
-### [Deployed to Heroku](https://)
+### [Heroku](https://create-notes-0301.herokuapp.com/)
 
-### [Repository on Github](https://github.com/ktcwn/NoteTaker)
+### [Github Repo](https://github.com/ktcwn/NoteTaker)
 
 ## About
 
