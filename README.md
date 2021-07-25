@@ -33,9 +33,8 @@ To initialize the app, open the Note Taker application in a new terminal, enter 
 
 ## Contributions
 
-- Starter Code
-- Calvin Carter, Instructor
-- Tyler Bolty, Tutor
+- Calvin Carter
+- Tyler Bolty
 - Traversy Media
 
 ## License
